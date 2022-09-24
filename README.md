@@ -5,7 +5,8 @@
 
 <b><h3>  <ul>
 <li> Projeto - Sistema de temperatura:</ul> </h3></b>
- 
+<p>
+<i>Esse projeto tem o proposito de demonstar um simples sistema de controle de temperatura, sendo que conforme a variação de temperatura seja ela baixa ou alta, o sistema para resfriar o ambiente é respectivamente ligado para alta temperatura, e desligado para baixa temperatura ou temperatura estável </i>
  
  
 <img src="sensordetemperatura.PNG">
