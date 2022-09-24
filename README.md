@@ -3,4 +3,5 @@
 Repositório para Avaliação
 
 Projeto - Sistema de temperatura:
-<img src="sensordetemperatura.IMG">
+<img src="sistemadetemperatura.jpg">
+
