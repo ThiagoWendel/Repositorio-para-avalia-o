@@ -23,11 +23,9 @@ Para acessar o codigo em (C++): <a href = "reposit_rio_para_avalia_o_sensor_de_t
 <br>
 
 <table>
-
-Cada linha horizontal em uma tabela começa com a tag:
-
 <tr>
-
-E cada conjunto de dados dentro da linha começa com a tag:
-
 <td>
+ Thiago Wendel Sousa Vieira
+ </table>
+</tr>
+</td>
