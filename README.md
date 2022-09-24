@@ -11,7 +11,7 @@
  
 <img src="sensordetemperatura.PNG">
 <p>
-Para acessar o codigo em C++: <a href = "reposit_rio_para_avalia_o_sensor_de_temperatura1.ino"> Clique aqui</a>
+Para acessar o codigo em (C++): <a href = "reposit_rio_para_avalia_o_sensor_de_temperatura1.ino"> Clique aqui</a>
 <br> 
 
 <b><ul>
