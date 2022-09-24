@@ -23,9 +23,14 @@ Para acessar o codigo em (C++): <a href = "reposit_rio_para_avalia_o_sensor_de_t
 <br>
 
 <table>
+ <tr>
+<td>
+ Curso: Iot e edge computing para iniciantes na prática com microbit e Arduino
+</tr>
+</td>
 <tr>
 <td>
  Thiago Wendel Sousa Vieira
- </table>
 </tr>
 </td>
+ </table>
