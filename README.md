@@ -14,9 +14,8 @@ Tinkercad:
 <head>
     <title> Como alterar a fonte de um texto em HTML </title>
   <meta name="description" content="Aprenda a alterar a fonte de um texto em HTML através da tag font e do atributo face">
- </head>
  
- <body> 
+ 
   <font face="Arial"> Arial </font> <br />
   <font face="Courier"> Courier </font> <br />
   <font face="Georgia"> Georgia </font> <br />
