@@ -18,7 +18,7 @@
 
 <img src="tinkercad.jpg" height="200" width="450">
 
-<p>Confira no Tinkercad <a href="https://www.tinkercad.com/things/iwm72tNDTgn-atividade-avaliacao-sensor-de-temperatura/editel?sharecode=P9Ww8AX0dAt2UR-tVdPyi5m0ntXfwZrZE-5V5mucG20" target="_blank">Clique aqui</a>.</p>
+<p>Confira o programa no Tinkercad: <a href="https://www.tinkercad.com/things/iwm72tNDTgn-atividade-avaliacao-sensor-de-temperatura/editel?sharecode=P9Ww8AX0dAt2UR-tVdPyi5m0ntXfwZrZE-5V5mucG20" target="_blank">Clique aqui para acessar</a>.</p>
 <br>
 
 
