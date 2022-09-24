@@ -6,3 +6,7 @@ Projeto - Sistema de temperatura:
 <img src="sensordetemperatura.PNG">
 <br>
 <a href = "reposit_rio_para_avalia_o_sensor_de_temperatura1.ino"> Clique aqui para acessar o código</a>
+<br> 
+
+Tinkercad:
+<a href = ["reposit_rio_para_avalia_o_sensor_de_temperatura1.ino](https://www.tinkercad.com/things/iwm72tNDTgn-atividade-avaliacao-sensor-de-temperatura/editel?sharecode=P9Ww8AX0dAt2UR-tVdPyi5m0ntXfwZrZE-5V5mucG20)"> Clique aqui para acesso direto ao Tinkercad</a>
