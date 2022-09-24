@@ -2,7 +2,7 @@
 
 <b><h1>Repositório para Avaliação</h1></b>
 
-<b> Projeto - Sistema de temperatura:</b>
+<b><h2> Projeto - Sistema de temperatura:</h2></b>
 <img src="sensordetemperatura.PNG">
 <br>
 <a href = "reposit_rio_para_avalia_o_sensor_de_temperatura1.ino"> Clique aqui para acessar o código</a>
