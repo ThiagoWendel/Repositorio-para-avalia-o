@@ -1,6 +1,6 @@
 # Repositorio-para-avalia-o
 
-<b>Repositório para Avaliação</b>
+<b><h1>Repositório para Avaliação</h1></b>
 
 <b> Projeto - Sistema de temperatura:</b>
 <img src="sensordetemperatura.PNG">
